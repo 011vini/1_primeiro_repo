@@ -1,2 +1,2 @@
-# curso_git-github1
+# 1_primeiro_repo
 Aprendendo git e github
